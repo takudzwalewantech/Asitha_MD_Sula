@@ -8,7 +8,7 @@ module.exports = {
 SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID,
 PREFIX: process.env.PREFIX || '.' ,
 PORT: process.env.PORT === undefined ? "8000" : process.env.PORT,
-SUDO: process.env.SUDO === undefined ? '9473737373,9363636367' : process.env.SUDO,
+SUDO: process.env.SUDO === undefined ? '94760663483,94710450435' : process.env.SUDO,
 SESSION_NAME: process.env.PORT === undefined ? "asitha" : process.env.SESSION_NAME,
 ALIVE_MSG: process.env.ALIVE_MSG === undefined ? "*Hi Friends 🌸 , I am alive now!! I Love You*" : process.env.ALIVE_MSG,
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS === undefined ?"true" : process.env.AUTO_READ_STATUS,
