@@ -64,7 +64,10 @@
 </br>
 </br>
  [![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/sulaksha449/Asitha_MD_Sula)
- 
+
+    
+[![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+
 <hr>
 
 <b>COPY DEPLOY CODE</b></br>
