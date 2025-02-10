@@ -45,7 +45,7 @@
 </p>
 
 <hr>
-<b>GET SESSION ID VIA PAIR CODE 01</b>
+<b>GET SESSION ID VIA PAIR CODE </b>
 
 <a href='[https://pair-web.asitha.us.kg](https://pair-web.asitha.us.kg)' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-blue?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
