@@ -53,7 +53,7 @@
 <hr>
 <b>CONTACT OWNER</b>
 
-[![BOT-NEW](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94760663483)
+[![Asitha_MD_Sula](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/+94760663483)
 <hr>
 
 <a href="https://whatsapp.com/channel/0029VaeyMWv3QxRu4hA6c33Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-green"  width="350"></a>
@@ -63,10 +63,10 @@
 <b>DEPLOY</b>
 </br>
 </br>
- [![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/sulaksha449/Asitha_MD_Sula)
+ [![Asitha_MD_Sula](https://img.shields.io/badge/asitha_md_deploy_on_heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&buttcode=1n2i3m4a)](https://dashboard.heroku.com/new?template=https://github.com/sulaksha449/Asitha_MD_Sula)
 
     
-[![BOT-NEW](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
+[![Asitha_MD_Sula](https://img.shields.io/badge/asitha_md_deploy_on_render-000000?style=for-the-badge&logo=render&logoColor=white&buttcode=1n2i3m4a)](https://docs.render.com/free)
 
 <hr>
 
