@@ -26,15 +26,15 @@
 
 <p align="center">
   <a href="https://github.com/sulaksha449/Asitha_MD_Sula">
-    <img src="https://img.shields.io/github/repo-size/ASITHA-MD/BOT-NEW?color=purple&label=Repo%20Size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/sulaksha449/Asitha_MD_Sula?color=purple&label=Repo%20Size&style=plastic">
 
   </a>
   <a href="https://github.com/sulaksha449/Asitha_MD_Sula">
-    <img src="https://img.shields.io/github/license/ASITHA-MD/BOT-NEW?color=purple&label=License&style=plastic">
+    <img src="https://img.shields.io/github/license/sulaksha449/Asitha_MD_Sula?color=purple&label=License&style=plastic">
 
   </a>
   <a href="https://github.com/sulaksha449/Asitha_MD_Sula">
-    <img src="https://img.shields.io/github/languages/top/ASITHA-MD/BOT-NEW?color=purple&label=Javascript&style=plastic">
+    <img src="https://img.shields.io/github/languages/top/sulaksha449/Asitha_MD_Sula?color=purple&label=Javascript&style=plastic">
 
   </a>
   <a href="https://github.com/sulaksha449/Asitha_MD_Sula">
