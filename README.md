@@ -16,11 +16,11 @@
   
   </a>
   <a href="https://github.com/sulaksha449/Asitha_MD_Sula">
-    <img src="https://img.shields.io/github/forks/ASITHA-MD/BOT-NEW?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/sulaksha449/Asitha-MD-Sula?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/sulaksha449/Asitha_MD_Sula">
-    <img src="https://img.shields.io/github/stars/ASITHA-MD/BOT-NEW?style=social">
+    <img src="https://img.shields.io/github/stars/sulaksha449/Asitha-MD-Sula?style=social">
   </a>
 </p>
 
